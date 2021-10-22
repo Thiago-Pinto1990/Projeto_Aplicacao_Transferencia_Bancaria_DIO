@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\bin\Debug\ProjetoDIO Transferencia Bancaria.NET.exe.config
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\bin\Debug\ProjetoDIO Transferencia Bancaria.NET.exe
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\bin\Debug\ProjetoDIO Transferencia Bancaria.NET.pdb
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\obj\Debug\ProjetoDIO Transferencia Bancaria.NET.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\obj\Debug\ProjetoDIO Transferencia Bancaria.NET.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\obj\Debug\ProjetoDIO Transferencia Bancaria.NET.exe
+C:\Users\thiag\Documents\DIO\ProjetoDIO Transferencia Bancaria.NET\ProjetoDIO Transferencia Bancaria.NET\obj\Debug\ProjetoDIO Transferencia Bancaria.NET.pdb
